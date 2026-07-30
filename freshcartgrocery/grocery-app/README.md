@@ -1,5 +1,4 @@
 # FreshCart - Vegetables & Fruits Store (Static React App)
-#this is sample data
 #Shop farm-fresh fruits, organic vegetables, essentials online with fast, same-day delivery slots.
 
 A ready-to-host static web app for a fresh vegetables & fruits store, built
