@@ -5,6 +5,7 @@ A ready-to-host static web app for a fresh vegetables & fruits store, built
 with React — **no npm install and no build step required**. React, ReactDOM
 and Babel are loaded from a CDN directly in `index.html`, and JSX is
 compiled in the browser at runtime.
+this is sample data
 
 ## What's included
 
