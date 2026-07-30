@@ -1,4 +1,5 @@
 # FreshCart - Vegetables & Fruits Store (Static React App)
+#Shop farm-fresh fruits, organic vegetables, essentials online with fast, same-day delivery slots.
 
 A ready-to-host static web app for a fresh vegetables & fruits store, built
 with React — **no npm install and no build step required**. React, ReactDOM
